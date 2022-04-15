@@ -1,0 +1,52 @@
+.container{
+    padding:15px;
+    margin:15px;
+    height: 100vh;
+}
+.btn1{
+    background-color: #e0e0e0;
+    width: 100px;
+    height: 80px;
+    border-radius: 15px;
+    border-color: black;
+    border-width: bold;
+    margin-right: 2;
+}
+.btn2{
+    background-color: #6fcf97;
+    width: 100px;
+    height: 80px;
+    border-radius: 15px;
+    border-color: black;
+    border-width: bold;
+    margin-right: 2;
+}
+.btn3{
+    background-color: #56ccf2;
+    width: 100px;
+    height: 80px;
+    border-radius: 15px;
+    border-color: black;
+    border-width: bold;
+    margin-right: 2;
+}
+.btn4{
+    background-color: #bb6bd9;
+    width: 100px;
+    height: 80px;
+    border-radius: 15px;
+    border-color: black;
+    border-width: bold;
+}
+.background{
+    background-color: black;
+    color: white;
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+}
+.para{
+    text-align: center;
+}
